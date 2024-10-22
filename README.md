@@ -64,13 +64,14 @@
 
 <a href="https://www.linkedin.com/in/helo%C3%ADsa-cristov%C3%A3o-da-silva-856398210/" alt="Linkedin" >   
 <img src="https://img.shields.io/badge/Linkedin-0A66C2?style=for-the-badge&logo=Linkedin&logoColor=white"/>
-</a>&nbsp;
+</a>&nbsp;<br/><br/>
     
 
 </div>
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=gruvbox&locale=en&hide_border=false&username=heloisatanquella" height="150" alt="stats graph"  />
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=heloisatanquella&show_icons=true&locale=en&layout=compact" alt="heloisatanquella" /></p>
+
+<p> <img align="center" src="https://github-readme-stats.vercel.app/api?username=heloisatanquella&show_icons=true&locale=en" alt="heloisatanquella" /></p>
     
   
 </div>
