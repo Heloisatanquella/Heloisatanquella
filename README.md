@@ -11,9 +11,9 @@
 
 <p align="left">Sou uma estudante apaixonada por tecnologia e recentemente passei por um processo de migração de carreira para Engineering. Atuei na área comercial por 03 anos, mas na hora de pensar para qual carreira eu iria direcionar meus estudos, descobri aquilo que eu realmente gostava: progamar! Hoje, estou no terceiro semestre de ADS, atuo como estagiária de Engineering na Monks Brasil e tento nos momentos livres aprofundar meus conhecimentos por meio de cursos e vídeos por fora. Sempre em busca de evolução e com muita persistência. </p>
 
-###
+<h1></h1>
 
-<h1 align="left">📚 <strong>Aprendendo:</strong></h3>
+<h3 align="left">📚 <strong>Aprendendo:</strong></h3>
 
 
 <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
@@ -31,9 +31,9 @@
 </a>
   
 
-###
+<h1></h1>
 
-<h1 align="left"> 💻 <strong>Tecnologias:</strong></h3>
+<h3 align="left"> 💻 <strong>Tecnologias:</strong></h3>
     
 <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>
@@ -65,10 +65,9 @@
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/>
 </a> &nbsp;
 
-****
-</div>
-
 ###
+
+<h1></h1>
 
 <div align="left">
 
