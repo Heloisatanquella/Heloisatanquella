@@ -29,6 +29,10 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg"alt="Golang"width="40"height="40"
   />
 </a>
+
+<a href="https://cloud.google.com/" target="_blank" rel="noreferrer">
+<img src="https://upload.wikimedia.org/wikipedia/commons/5/51/Google_Cloud_logo.svg" alt="gcp" width="40" height="40"/>
+</a> &nbsp;
   
 
 <h1></h1>
