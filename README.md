@@ -1,7 +1,7 @@
 <h1 align="left">Olá, eu sou a Helo! </h1>
 
 
-<h3 align="left">👩‍💻 Desenvolvedora Backend Júnior | Estagiária em Engenharia de Software | 🎓 4º semestre de ADS</h3>
+<h3 align="left">👩‍💻 Desenvolvedora Full Stack Júnior | Estagiária em Engenharia de Software | 🎓 4º semestre de ADS</h3>
 
 ###
 
