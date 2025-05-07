@@ -9,7 +9,7 @@
 
 ###
 
-<p align="left">Sou uma estudante apaixonada por tecnologia e recentemente passei por um processo de migração de carreira para Engineering. Atuei na área comercial por 03 anos, mas na hora de pensar para qual carreira eu iria direcionar meus estudos, descobri aquilo que eu realmente gostava: progamar! Hoje, estou no terceiro semestre de ADS, atuo como estagiária de Engineering na Monks Brasil e tento nos momentos livres aprofundar meus conhecimentos por meio de cursos e vídeos por fora. Sempre em busca de evolução e com muita persistência. </p>
+<p align="left">Sou uma estudante apaixonada por tecnologia e recentemente passei por um processo de migração de carreira para área de Desenvolvimento. Atuei na área comercial por quase 04 anos, na qual entrei pelo programa Jovem Aprendiz, mas na hora de pensar para qual carreira eu iria direcionar meus estudos, descobri aquilo que eu realmente gostava: progamar! Hoje, estou no quarto semestre de ADS, atuo como estagiária de Engenharia de Software como estagiária e tento nos momentos livres aprofundar meus conhecimentos por meio de cursos e práticas. Sempre em busca de evolução e com muita persistência. </p>
 
 <h1></h1>
 
